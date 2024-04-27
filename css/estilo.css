@@ -44,6 +44,17 @@ nav.navbar-transparente {
 	margin: 12px 15px;
 }
 
+.navbar-toggler{
+	margin: 9px;
+}
+a.navbar-brand{
+	margin: 4px;
+}
+
+a.nav-link{
+	margin: 2px;
+}
+
 /* Capa
 -----------------------------*/
 .capa {
